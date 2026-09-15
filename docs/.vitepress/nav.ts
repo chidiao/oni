@@ -2,10 +2,18 @@ import type { DefaultTheme } from "vitepress";
 
 export const nav: DefaultTheme.Config["nav"] = [
   { text: "Home", link: "/" },
-  { text: "液门", link: "/liquid" },
+  {
+    text: "指南",
+    items: [
+      { text: "气体", link: "/guide/gas" },
+      { text: "液体", link: "/guide/liquid" },
+      { text: "液门", link: "/guide/door" },
+    ],
+  },
   {
     text: "动物",
     items: [
+      { text: "养殖", link: "/animal/index" },
       { text: "养鱼", link: "/animal/fish" },
       { text: "壁虎", link: "/animal/gecko" },
     ],
