@@ -14,6 +14,7 @@ const docIcon = (): DefaultTheme.SocialLink['icon'] => ({
 export default defineConfig({
   title: '缺氧笔记',
   description: '缺氧模块和笔记',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     logo: '/imgs/logo.png',
 
