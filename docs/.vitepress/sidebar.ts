@@ -7,12 +7,16 @@ export const sidebar: DefaultTheme.Config['sidebar'] = [
       { text: '基地', link: '/guide/jidi' },
       { text: '气体', link: '/guide/gas' },
       { text: '液体', link: '/guide/liquid' },
-      { text: '液门', link: '/guide/door' }
+      { text: '液门', link: '/guide/door' },
+      { text: '蒸汽室', link: '/guide/zqs' }
     ]
   },
   {
     text: '食物',
-    items: [{ text: '总览', link: '/food/index' }]
+    items: [
+      { text: '总览', link: '/food/index' },
+      { text: '农场', link: '/food/nongchang' }
+    ]
   },
   {
     text: '养殖',

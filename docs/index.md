@@ -14,32 +14,64 @@ hero:
       link: /links
 
 features:
+  - title: 基地
+    details: 基地规划设计参考
+    link: /guide/jidi
+    linkText: 查看
+    icon: 🏠
   - title: 气体
     details: 高压制氧、气泉方案
     link: /guide/gas
     linkText: 查看
+    icon: 💨
   - title: 液体
     details: 高压液库与自流式高压液库
     link: /guide/liquid
     linkText: 查看
+    icon: 💧
   - title: 液门
     details: 液体流动行为与液门设计要点
     link: /guide/door
     linkText: 查看
+    icon: 🚪
+  - title: 蒸汽室
+    details: 蒸汽室大小与水量要点
+    link: /guide/zqs
+    linkText: 查看
+    icon: ♨️
+  - title: 食物
+    details: 蘑菇卷种植比例与配方
+    link: /food/index
+    linkText: 查看
+    icon: 🍄
+  - title: 农场
+    details: 毛刺花种植布局方案
+    link: /food/nongchang
+    linkText: 查看
+    icon: 🌱
   - title: 养殖
     details: 尖块兽饲养与通用养殖方案
     link: /animal/index
     linkText: 查看
+    icon: 🦔
   - title: 养鱼
     details: 海梳蕨与帕库鱼的简易养殖模块
     link: /animal/fish
     linkText: 查看
+    icon: 🐟
   - title: 壁虎
     details: 液门设计让壁虎可单向通行
     link: /animal/gecko
     linkText: 查看
+    icon: 🦎
+  - title: 哈奇
+    details: 液门组合实现筛选、溺死与防爬门
+    link: /animal/haqi
+    linkText: 查看
+    icon: 🐗
   - title: 参考链接
     details: 氧内相关的参考资料
     link: /links
     linkText: 查看
+    icon: 🔗
 ---

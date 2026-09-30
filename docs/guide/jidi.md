@@ -1,5 +1,5 @@
 # 基地
 
-## 基地出口
+## 出口
 
-![](/imgs/jdck.jpg)
+![](/imgs/ck.jpg)
