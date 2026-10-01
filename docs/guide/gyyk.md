@@ -19,3 +19,7 @@
 ### 盐水泉
 
 ![](/imgs/gyykys.jpg)
+
+### 污染浓盐水泉
+
+![](/imgs/gyykwrnys.jpg)
