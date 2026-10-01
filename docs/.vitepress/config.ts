@@ -18,6 +18,11 @@ export default defineConfig({
   themeConfig: {
     logo: '/imgs/logo.png',
 
+    outline: {
+      level: [2, 3],
+      label: '本页目录'
+    },
+
     nav,
 
     sidebar,

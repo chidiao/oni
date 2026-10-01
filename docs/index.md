@@ -24,9 +24,9 @@ features:
     link: /guide/gas
     linkText: 查看
     icon: 💨
-  - title: 液体
+  - title: 高压液库
     details: 高压液库与自流式高压液库
-    link: /guide/liquid
+    link: /guide/gyyk
     linkText: 查看
     icon: 💧
   - title: 液门
@@ -61,7 +61,7 @@ features:
     icon: 🐟
   - title: 壁虎
     details: 液门设计让壁虎可单向通行
-    link: /animal/gecko
+    link: /animal/bihu
     linkText: 查看
     icon: 🦎
   - title: 哈奇
