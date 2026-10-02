@@ -4,12 +4,18 @@ export const sidebar: DefaultTheme.Config['sidebar'] = [
   {
     text: '指南',
     items: [
-      { text: '基地', link: '/guide/jidi' },
       { text: '气体', link: '/guide/gas' },
       { text: '高压液库', link: '/guide/gyyk' },
       { text: '液门', link: '/guide/door' },
       { text: '净化', link: '/guide/jinghua' },
       { text: '蒸汽室', link: '/guide/zqs' }
+    ]
+  },
+  {
+    text: '建造',
+    items: [
+      { text: '基地', link: '/build/jidi' },
+      { text: '瀑布', link: '/build/pubu' }
     ]
   },
   {

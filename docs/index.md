@@ -16,7 +16,7 @@ hero:
 features:
   - title: 基地
     details: 基地规划设计参考
-    link: /guide/jidi
+    link: /build/jidi
     linkText: 查看
     icon: 🏠
   - title: 气体
