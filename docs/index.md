@@ -36,7 +36,7 @@ features:
     icon: 🚪
   - title: 蒸汽室
     details: 蒸汽室大小与水量要点
-    link: /guide/zqs
+    link: /build/zqs
     linkText: 查看
     icon: ♨️
   - title: 食物
