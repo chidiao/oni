@@ -39,34 +39,34 @@ features:
     link: /build/zqs
     linkText: 查看
     icon: ♨️
-  - title: 食物
+  - title: 种植
     details: 蘑菇卷种植比例与配方
-    link: /food/index
+    link: /zz/index
     linkText: 查看
     icon: 🍄
   - title: 农场
     details: 毛刺花种植布局方案
-    link: /food/nongchang
+    link: /zz/nc
     linkText: 查看
     icon: 🌱
   - title: 养殖
     details: 尖块兽饲养与通用养殖方案
-    link: /animal/index
+    link: /yz/index
     linkText: 查看
     icon: 🦔
   - title: 养鱼
     details: 海梳蕨与帕库鱼的简易养殖模块
-    link: /animal/fish
+    link: /yz/fish
     linkText: 查看
     icon: 🐟
   - title: 壁虎
     details: 液门设计让壁虎可单向通行
-    link: /animal/bihu
+    link: /yz/bihu
     linkText: 查看
     icon: 🦎
   - title: 哈奇
     details: 液门组合实现筛选、溺死与防爬门
-    link: /animal/haqi
+    link: /yz/haqi
     linkText: 查看
     icon: 🐗
   - title: 参考链接

@@ -20,19 +20,19 @@ export const nav: DefaultTheme.Config['nav'] = [
     ]
   },
   {
-    text: '食物',
+    text: '种植',
     items: [
-      { text: '总览', link: '/food/index' },
-      { text: '农场', link: '/food/nongchang' }
+      { text: '总览', link: '/zz/index' },
+      { text: '农场', link: '/zz/nc' }
     ]
   },
   {
-    text: '动物',
+    text: '养殖',
     items: [
-      { text: '总览', link: '/animal/index' },
-      { text: '养鱼', link: '/animal/fish' },
-      { text: '壁虎', link: '/animal/bihu' },
-      { text: '哈奇', link: '/animal/haqi' }
+      { text: '总览', link: '/yz/index' },
+      { text: '养鱼', link: '/yz/fish' },
+      { text: '壁虎', link: '/yz/bihu' },
+      { text: '哈奇', link: '/yz/haqi' }
     ]
   }
 ]

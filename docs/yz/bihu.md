@@ -7,15 +7,15 @@
 - 单向液门多开少关原则，防止小人被困或进不去
 - 周期锁 1.9 比 0.1
 
-![](/imgs/dxym1.jpg)
+![](/imgs/yz-dxym1.jpg)
 
 ### 镜像版
 
-![](/imgs/dxym2.jpg)
+![](/imgs/yz-dxym2.jpg)
 
 ### 顶部版
 
-![](/imgs/dxym3.jpg)
+![](/imgs/yz-dxym3.jpg)
 
 ## 壁虎养殖
 

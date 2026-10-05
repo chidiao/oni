@@ -9,21 +9,21 @@
 - 这两个作物都是高温，比较契合 40 - 50°
 - 先把金属砖里的各种线路铺好再建液培砖，否则只能拆顶部隔热砖进行返修
 
-![](/imgs/nc-hjsc1.jpg)
+![](/imgs/zz-hjsc1.jpg)
 
 - 液冷循环
 
-![](/imgs/nc-hjsc2.jpg)
+![](/imgs/zz-hjsc2.jpg)
 
 - 自动化
 
-![](/imgs/nc-hjsc3.jpg)
+![](/imgs/zz-hjsc3.jpg)
 
 ## 毛刺花
 
 - 18 x 11
 
-![](/imgs/nc-mch.jpg)
+![](/imgs/zz-mch.jpg)
 
 ## 蘑菇水草
 
@@ -31,4 +31,4 @@
 - 菌泥必须走气体和非液体区域，否则挥发
 - 清扫器未覆盖，失败
 
-![](/imgs/nc-mgsc.jpg)
+![](/imgs/zz-mgsc.jpg)

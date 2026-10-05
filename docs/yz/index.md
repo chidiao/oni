@@ -8,8 +8,8 @@
 - 该气动门布局刚好可以让漫殖藤长满24格。
 - 上方刚好铺设清扫器，同时注意房间系统。
 
-![](/imgs/jks1.jpg)
+![](/imgs/yz-jks1.jpg)
 
 ## 通用
 
-![](/imgs/tyys.jpg)
+![](/imgs/yz-tyys.jpg)
