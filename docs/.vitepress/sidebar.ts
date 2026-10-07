@@ -15,8 +15,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = [
     items: [
       { text: '基地', link: '/build/jidi' },
       { text: '瀑布', link: '/build/pubu' },
-      { text: '蒸汽室', link: '/build/zqs' },
-      { text: '汪洋星', link: '/build/wyx' }
+      { text: '汪洋星', link: '/build/wyx' },
+      { text: '液冷', link: '/build/yeleng' }
     ]
   },
   {
@@ -32,7 +32,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = [
       { text: '总览', link: '/yz/index' },
       { text: '养鱼', link: '/yz/fish' },
       { text: '壁虎', link: '/yz/bihu' },
-      { text: '哈奇', link: '/yz/haqi' }
+      { text: '哈奇', link: '/yz/haqi' },
+      { text: '飞鱼', link: '/yz/feiyu' }
     ]
   },
   {
