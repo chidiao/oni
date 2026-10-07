@@ -21,7 +21,3 @@
 | 石油       | 100 g            | 400 g      |
 | 液态石脑油 | 10 kg            | 40 kg      |
 | 原油       | 100 g            | 400 g      |
-
-![fenceng](/imgs/fenceng.jpg)
-
-[文档](https://www.yuque.com/u25332524/ftq4u7/nn8f4t#SNCGP)

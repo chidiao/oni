@@ -19,9 +19,9 @@ features:
     link: /build/jidi
     linkText: 查看
     icon: 🏠
-  - title: 气体
+  - title: 高压气库
     details: 高压制氧、气泉方案
-    link: /guide/gas
+    link: /guide/gyqk
     linkText: 查看
     icon: 💨
   - title: 高压液库

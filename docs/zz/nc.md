@@ -19,6 +19,27 @@
 
 ![](/imgs/zz-hjsc3.jpg)
 
+## 毛刺小麦
+
+[文档](https://www.yuque.com/u25332524/ftq4u7/ztbrcd)
+
+- 18 x 11
+- 瑕疵但能用，有待升级
+
+![](/imgs/nc-mcxm1.jpg)
+
+- 重点之一是需要真空隔离两个环境
+
+![](/imgs/nc-mcxm2.jpg)
+
+- 液冷循环，通过闸门的闭合给毛刺降温
+
+![](/imgs/nc-mcxm3.jpg)
+
+- 缓冲门 5s
+
+![](/imgs/nc-mcxm4.jpg)
+
 ## 蘑菇
 
 - 18 x 11
