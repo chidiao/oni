@@ -19,7 +19,8 @@ export const menus: MenuGroup[] = [
       { text: '基地', link: '/build/jidi' },
       { text: '瀑布', link: '/build/pubu' },
       { text: '汪洋星', link: '/build/wyx' },
-      { text: '液冷', link: '/build/yeleng' }
+      { text: '液冷', link: '/build/yeleng' },
+      { text: '发电', link: '/build/fadian' }
     ]
   },
   {
