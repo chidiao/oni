@@ -36,36 +36,36 @@
 - 补充模块用的鱼类移取点
 - 房间建造及滴液从下往上进行，一旦封顶会很麻烦
 
-![](/imgs/yz-pky1.jpg)
+![](/imgs/yz/pky1.jpg)
 
 - 用一个砖块格挡，让清扫器不能覆盖底层装载器，避免循环运蛋
 - 如果砖上落了蛋，清扫不到！
 
-![](/imgs/yz-pky2.jpg)
+![](/imgs/yz/pky2.jpg)
 
 - 三个清扫器分别运送 食物、杂物、蛋
 
-![](/imgs/yz-pky4.jpg)
+![](/imgs/yz/pky4.jpg)
 
 - 这里水量低，不能游动，鱼儿卡的很整齐
 
-![](/imgs/yz-pky3.jpg)
+![](/imgs/yz/pky3.jpg)
 
 ## 灯喙鱼
 
 - 18 x 6
 
-![](/imgs/yz-dhy1.jpg)
+![](/imgs/yz/dhy1.jpg)
 
-![](/imgs/yz-dhy2.jpg)
+![](/imgs/yz/dhy2.jpg)
 
 ## 彩斑鱿
 
 - 18 x 6
 - 铺少量液体，并且右侧留空，鱼儿就不会过去产蛋了，清扫器更灵活（通用）
 
-![](/imgs/yz-cby1.jpg)
+![](/imgs/yz/cby1.jpg)
 
 - 该房间太拥挤，左侧清扫器（所有+蛋）运到右边，再由右侧清扫器分拣（所有）
 
-![](/imgs/yz-cby2.jpg)
+![](/imgs/yz/cby2.jpg)

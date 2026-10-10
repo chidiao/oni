@@ -7,22 +7,22 @@
 - 单向液门多开少关原则，防止小人被困或进不去
 - 周期锁 1.9 比 0.1
 
-![](/imgs/yz-dxym1.jpg)
+![](/imgs/yz/dxym1.jpg)
 
 ### 镜像版
 
-![](/imgs/yz-dxym2.jpg)
+![](/imgs/yz/dxym2.jpg)
 
 ### 顶部版
 
-![](/imgs/yz-dxym3.jpg)
+![](/imgs/yz/dxym3.jpg)
 
 ## 壁虎养殖
 
 - 18 x 11
 - 一株米虱木养一只壁虎刚好
 
-![](/imgs/yz-bh1.jpg)
+![](/imgs/yz/bh1.jpg)
 
 ### 自动化
 
@@ -30,4 +30,4 @@
 - 磷矿先塞满一箱，再把多余的推给杂物
 - 右上的杂物不勾选磷矿，不勾选拟种，左下的杂物勾选磷矿
 
-![](/imgs/yz-bh2.jpg)
+![](/imgs/yz/bh2.jpg)

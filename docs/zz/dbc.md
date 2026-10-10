@@ -5,6 +5,6 @@
 - 传感器只能放在末端，且横放（竖着反应慢跟不上）
 - 蒸汽机产电有限可以不收集，但是必须连一格电线才能工作
 
-![](/imgs/nc-dbc1.jpg)
+![](/imgs/zz/dbc1.jpg)
 
-![](/imgs/nc-dbc2.jpg)
+![](/imgs/zz/dbc2.jpg)

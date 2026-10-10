@@ -9,15 +9,15 @@
 - 这两个作物都是高温，比较契合 40 - 50°
 - 先把金属砖里的各种线路铺好再建液培砖，否则只能拆顶部隔热砖进行返修
 
-![](/imgs/zz-hjsc1.jpg)
+![](/imgs/zz/hjsc1.jpg)
 
 - 液冷循环
 
-![](/imgs/zz-hjsc2.jpg)
+![](/imgs/zz/hjsc2.jpg)
 
 - 自动化
 
-![](/imgs/zz-hjsc3.jpg)
+![](/imgs/zz/hjsc3.jpg)
 
 ## 毛刺小麦
 
@@ -26,19 +26,19 @@
 - 18 x 11
 - 瑕疵但能用，有待升级
 
-![](/imgs/nc-mcxm1.jpg)
+![](/imgs/zz/mcxm1.jpg)
 
 - 重点之一是需要真空隔离两个环境
 
-![](/imgs/nc-mcxm2.jpg)
+![](/imgs/zz/mcxm2.jpg)
 
 - 液冷循环，通过闸门的闭合给毛刺降温
 
-![](/imgs/nc-mcxm3.jpg)
+![](/imgs/zz/mcxm3.jpg)
 
 - 缓冲门 5s
 
-![](/imgs/nc-mcxm4.jpg)
+![](/imgs/zz/mcxm4.jpg)
 
 ## 蘑菇
 
@@ -46,4 +46,4 @@
 - 如果往下层运输菌泥会频繁破坏蘑菇生存气体环境，目前靠小人搬运，有待改善
 - 或者多填充一点二氧化碳
 
-![](/imgs/zz-mg1.jpg)
+![](/imgs/zz/mg1.jpg)
