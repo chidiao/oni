@@ -4,23 +4,23 @@
 
 - 铺的液体量不能超过 2kg（超压阈值）
 
-![](/imgs/gyqk2.jpg)
+![](/imgs/gyqk/qiku1.jpg)
 
 ## 高压制氧
 
 - 上氧下氢更加稳定，出气口（左一）会和相邻格子进行气体合并
 
-![](/imgs/gyzy1.jpg)
+![](/imgs/gyqk/zhiyang1.jpg)
 
 - 电解器被四格液体覆盖，质量不触发淹没即可，1 kg 足以
 - 电解器只会判定气压，所以液体不会导致过压
 
-![](/imgs/gyzy2.jpg)
+![](/imgs/gyqk/zhiyang2.jpg)
 
 ## 气泉方案
 
-![](/imgs/qq1.jpg)
+![](/imgs/qiquan1.jpg)
 
 ## 低温气泉
 
-![](/imgs/gyqk1.jpg)
+![](/imgs/gyqk/qiquan1.jpg)

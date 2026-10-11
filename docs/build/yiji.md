@@ -4,12 +4,12 @@
 
 - 13 x 7
 
-![](/imgs/yj-sr.jpg)
+![](/imgs/build/yijishuru.jpg)
 
 - 13 x 7
 
-![](/imgs/yj-sc.jpg)
+![](/imgs/build/yijishuchu.jpg)
 
 ## 生机组构仪
 
-![](/imgs/yj-sj.jpg)
+![](/imgs/build/yijishengji.jpg)

@@ -6,19 +6,19 @@
 
 - 填充
 
-![](/imgs/yl-jz1.jpg)
+![](/imgs/build/yeleng1.jpg)
 
 - 围挡
 
-![](/imgs/yl-jz2.jpg)
+![](/imgs/build/yeleng2.jpg)
 
 - 真空
 
-![](/imgs/yl-jz3.jpg)
+![](/imgs/build/yeleng3.jpg)
 
 - 真空（可选）
 
-![](/imgs/yl-jz4.jpg)
+![](/imgs/build/yeleng4.jpg)
 
 ### 建筑材质
 
@@ -30,7 +30,7 @@
 - 将导热环境控制到指定温度
 - 循环液体填充后不再更新
 
-![](/imgs/yl-1.jpg)
+![](/imgs/build/yeleng5.jpg)
 
 ## 液体循环降温
 
@@ -38,7 +38,7 @@
 - 循环液体降温后输出，管道桥补充新的液体
 - 截断阀最好别断电
 
-![](/imgs/yl-xhjw3.jpg)
+![](/imgs/build/jiangwen3.jpg)
 
 ## 炼钢模块
 
@@ -46,4 +46,4 @@
 - 两格通路加房顶，刚好标准尺寸
 - 循环降温加炼钢
 
-![](/imgs/yl-lgmk.jpg)
+![](/imgs/build/liangang.jpg)

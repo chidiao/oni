@@ -5,21 +5,21 @@
 - 清扫器不能拿紧邻的这一格，所以运输到这里，没问题
 - 清扫器只能拿隔壁的那一格，所以隔壁放原材料
 
-![](/imgs/cf1.jpg)
+![](/imgs/build/chufang1.jpg)
 
 - 餐具互为原材料的放到对应侧，不会冲突
 - 下图为例：米虱 =》米虱糕 =》寿司卷
 
-![](/imgs/cf2.jpg)
+![](/imgs/build/chufang2.jpg)
 
 ## 出口
 
 - 不错的尝试，有待优化
 
-![](/imgs/jd-ck.jpg)
+![](/imgs/build/chukou1.jpg)
 
 ## 除碳清杂
 
 - 工业器械需要和保护区隔离
 
-![](/imgs/jd-co2.jpg)
+![](/imgs/build/chutanqingza.jpg)

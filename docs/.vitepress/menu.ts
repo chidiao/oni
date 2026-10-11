@@ -10,7 +10,8 @@ export const menus: MenuGroup[] = [
       { text: '高压气库', link: '/guide/gyqk' },
       { text: '高压液库', link: '/guide/gyyk' },
       { text: '液门', link: '/guide/door' },
-      { text: '净化', link: '/guide/jinghua' }
+      { text: '净化', link: '/guide/jinghua' },
+      { text: '技巧', link: '/guide/skill' }
     ]
   },
   {
