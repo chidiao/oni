@@ -22,7 +22,8 @@ export const menus: MenuGroup[] = [
       { text: '汪洋星', link: '/build/wyx' },
       { text: '液冷', link: '/build/yeleng' },
       { text: '发电', link: '/build/fadian' },
-      { text: '遗迹', link: '/build/yiji' }
+      { text: '遗迹', link: '/build/yiji' },
+      { text: '制氧', link: '/build/zhiyang' }
     ]
   },
   {
