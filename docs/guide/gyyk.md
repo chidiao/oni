@@ -20,6 +20,8 @@
 
 ## 自流式高压液库
 
+[水泉自流高压液库-大叔](https://www.bilibili.com/video/BV1bLDCBfEuE)
+
 - 需要两格不同气体
 
 ![](/imgs/gyyk/qiti.jpg)
@@ -34,7 +36,11 @@
 
 ### 岩浆
 
-- 真空环境进行操作
-- 两种气体，通过气化来完成，水 + 磷矿
+- 真空环境操作
+- 两格气体，高温气化实现，水 + 磷矿，水要铺开
+- 隔热材质，黑曜石，熔点 2700+
+- 隔热气闸，钢，熔点 2400+
 
 ![](/imgs/gyyk/yanjiang1.jpg)
+
+[高压岩浆库-老郑](https://www.bilibili.com/video/BV12P3gzSEP1)

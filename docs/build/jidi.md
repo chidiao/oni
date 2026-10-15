@@ -12,7 +12,7 @@
 
 ![](/imgs/build/chufang2.jpg)
 
-## 出口
+## 检查站
 
 - 不错的尝试，有待优化
 
@@ -23,3 +23,12 @@
 - 工业器械需要和保护区隔离
 
 ![](/imgs/build/chutanqingza.jpg)
+
+## 双向储物
+
+- 5 x 7
+- 真空环境
+
+![](/imgs/build/chuwu.jpg)
+
+[视频教程](https://www.bilibili.com/video/BV1wh411i7eL)
