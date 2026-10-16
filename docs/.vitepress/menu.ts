@@ -23,7 +23,8 @@ export const menus: MenuGroup[] = [
       { text: '液冷', link: '/build/yeleng' },
       { text: '发电', link: '/build/fadian' },
       { text: '遗迹', link: '/build/yiji' },
-      { text: '制氧', link: '/build/zhiyang' }
+      { text: '制氧', link: '/build/zhiyang' },
+      { text: '火山开发', link: '/build/huoshan' }
     ]
   },
   {
