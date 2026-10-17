@@ -30,19 +30,19 @@ export const menus: MenuGroup[] = [
   {
     text: '种植',
     items: [
-      { text: '总览', link: '/zz/index' },
-      { text: '农场', link: '/zz/nc' },
-      { text: '动捕草', link: '/zz/dbc' }
+      { text: '总览', link: '/crop/index' },
+      { text: '农场', link: '/crop/nc' },
+      { text: '动捕草', link: '/crop/dbc' }
     ]
   },
   {
     text: '养殖',
     items: [
-      { text: '总览', link: '/yz/index' },
-      { text: '养鱼', link: '/yz/fish' },
-      { text: '壁虎', link: '/yz/bihu' },
-      { text: '哈奇', link: '/yz/haqi' },
-      { text: '飞鱼', link: '/yz/feiyu' }
+      { text: '总览', link: '/farm/index' },
+      { text: '养鱼', link: '/farm/fish' },
+      { text: '壁虎', link: '/farm/bihu' },
+      { text: '哈奇', link: '/farm/haqi' },
+      { text: '飞鱼', link: '/farm/feiyu' }
     ]
   }
 ]

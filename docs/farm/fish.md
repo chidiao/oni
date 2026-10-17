@@ -20,23 +20,23 @@
 
 - 18 x 6
 
-![](/imgs/yz/pakuyu1.jpg)
+![](/imgs/fish/pakuyu1.jpg)
 
 - 真空隔热
 
-![](/imgs/yz/pakuyu-gr.jpg)
+![](/imgs/fish/pakuyu-gr.jpg)
 
 - 补充区
   - 务必放两格不同气体，防止挤压合并
   - 务必放少量液体，创建不可游动区域
   - 可以用石油等隔断一下，防止挤压合并
 
-![](/imgs/yz/pakuyu-bc.jpg)
+![](/imgs/fish/pakuyu-bc.jpg)
 
 - 清扫器
   - 覆盖补充区的清扫器不覆盖储蛋箱，只覆盖储杂物箱
 
-![](/imgs/yz/pakuyu-qs.jpg)
+![](/imgs/fish/pakuyu-qs.jpg)
 
 ## 灯喙鱼
 
@@ -49,11 +49,11 @@
 - 精养5只，8格拥挤
 - 产出 石灰
 
-![](/imgs/yz/denghuiyu1.jpg)
+![](/imgs/fish/denghuiyu1.jpg)
 
 - 18 x 11
 
-![](/imgs/yz/fish-denghuiyu.jpg)
+![](/imgs/fish/denghuiyu2.jpg)
 
 ## 彩斑鱿
 
@@ -68,11 +68,11 @@
 - 产出 墨汁、针胆（钻石）
 - 液体加热器 - `5 x 5` 范围内需要至少一格液体达到 `400千克` 以上
 
-![](/imgs/yz/caibanyou01.jpg)
+![](/imgs/fish/caibanyou1.jpg)
 
 - 液体控温
 
-![](/imgs/yz/caibanyou02.jpg)
+![](/imgs/fish/caibanyou2.jpg)
 
 ## 海马
 
@@ -86,11 +86,11 @@
 - 产出 菌泥、粘蛋白、鱼子酱、珍珠
 - 储物箱 - 沙子
 
-![](/imgs/yz/haima01.jpg)
+![](/imgs/fish/haima1.jpg)
 
 - 补充区
   - 只能放一层液体，防止小海马游上去
   - 左边 100克 ，右边 450千克
 - 挤奶站 - 补充区数量少时禁用
 
-![](/imgs/yz/haima-bcq.jpg)
+![](/imgs/fish/haima-bcq.jpg)

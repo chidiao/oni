@@ -36,32 +36,32 @@ features:
     icon: 🚪
   - title: 种植
     details: 蘑菇卷种植比例与配方
-    link: /zz/index
+    link: /crop/index
     linkText: 查看
     icon: 🍄
   - title: 农场
     details: 毛刺花种植布局方案
-    link: /zz/nc
+    link: /crop/nc
     linkText: 查看
     icon: 🌱
   - title: 养殖
     details: 尖块兽饲养与通用养殖方案
-    link: /yz/index
+    link: /farm/index
     linkText: 查看
     icon: 🦔
   - title: 养鱼
     details: 海梳蕨与帕库鱼的简易养殖模块
-    link: /yz/fish
+    link: /farm/fish
     linkText: 查看
     icon: 🐟
   - title: 壁虎
     details: 液门设计让壁虎可单向通行
-    link: /yz/bihu
+    link: /farm/bihu
     linkText: 查看
     icon: 🦎
   - title: 哈奇
     details: 液门组合实现筛选、溺死与防爬门
-    link: /yz/haqi
+    link: /farm/haqi
     linkText: 查看
     icon: 🐗
   - title: 参考链接
