@@ -7,8 +7,6 @@ export const menus: MenuGroup[] = [
     text: '指南',
     items: [
       { text: '总览', link: '/guide/data' },
-      { text: '高压气库', link: '/guide/gyqk' },
-      { text: '高压液库', link: '/guide/gyyk' },
       { text: '液门', link: '/guide/door' },
       { text: '净化', link: '/guide/jinghua' },
       { text: '技巧', link: '/guide/skill' }
@@ -23,8 +21,18 @@ export const menus: MenuGroup[] = [
       { text: '液冷', link: '/build/yeleng' },
       { text: '发电', link: '/build/fadian' },
       { text: '遗迹', link: '/build/yiji' },
-      { text: '制氧', link: '/build/zhiyang' },
-      { text: '火山开发', link: '/build/huoshan' }
+      { text: '制氧', link: '/build/zhiyang' }
+    ]
+  },
+  {
+    text: '间歇泉',
+    items: [
+      { text: '总览', link: '/geyser/index' },
+      { text: '火山开发', link: '/geyser/huoshan' },
+      { text: '气泉开发', link: '/geyser/qiquan' },
+      { text: '液泉开发', link: '/geyser/yequan' },
+      { text: '高压气库', link: '/geyser/gyqk' },
+      { text: '高压液库', link: '/geyser/gyyk' }
     ]
   },
   {

@@ -19,7 +19,7 @@
 
 ## 气泉方案
 
-![](/imgs/qiquan1.jpg)
+![](/imgs/guide/qiquan1.jpg)
 
 ## 低温气泉
 

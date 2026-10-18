@@ -4,4 +4,4 @@
 
 通过填砖可以把液体挤到目的位置
 
-![](/imgs/jiyeti.jpg)
+![](/imgs/guide/jiyeti.jpg)

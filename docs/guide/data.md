@@ -2,7 +2,7 @@
 
 ## 分层概览
 
-![fenceng](/imgs/fenceng.jpg)
+![fenceng](/imgs/guide/fenceng.jpg)
 
 [文档](https://www.yuque.com/u25332524/ftq4u7/nn8f4t#SNCGP)
 
