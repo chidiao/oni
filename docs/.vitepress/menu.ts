@@ -7,7 +7,7 @@ export const menus: MenuGroup[] = [
     text: '指南',
     items: [
       { text: '总览', link: '/guide/data' },
-      { text: '液门', link: '/guide/door' },
+      { text: '门', link: '/guide/door' },
       { text: '净化', link: '/guide/jinghua' },
       { text: '技巧', link: '/guide/skill' }
     ]
