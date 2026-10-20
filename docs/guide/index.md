@@ -1,4 +1,12 @@
-# 常用数据
+# 指南
+
+`Guide`
+
+- [门](/guide/door)
+- [净化](/guide/jinghua)
+- [技巧](/guide/skill)
+
+## 常用数据
 
 ## 分层概览
 

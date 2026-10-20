@@ -1,6 +1,12 @@
 # 养殖
 
-## 幸福度
+`Farming`
+
+- [养鱼](/farm/fish)
+- [壁虎](/farm/bihu)
+- [哈奇](/farm/haqi)
+- [飞鱼](/farm/feiyu)
+
 
 ### 来源
 

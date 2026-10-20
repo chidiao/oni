@@ -16,19 +16,19 @@ hero:
 features:
   - title: 指南
     details: 常用数据、液门、净化与技巧
-    link: /guide/data
+    link: /guide/index
     linkText: 查看
     icon: 🧭
   - title: 建造
-    details: 基地、发电、液冷、制氧等模块
+    details: 基地、发电、制氧等模块
     link: /build/jidi
     linkText: 查看
     icon: 🏗️
-  - title: 间歇泉
-    details: 火山开发、气泉开发与高压气液库
-    link: /geyser/index
+  - title: 控温
+    details: 液冷等温控模块
+    link: /tc/index
     linkText: 查看
-    icon: ♨️
+    icon: 🌡️
   - title: 种植
     details: 作物数据、食谱与种植比例
     link: /crop/index
