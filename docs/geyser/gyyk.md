@@ -1,6 +1,6 @@
 # 高压液库
 
-## 普通高压液库
+## 高压液库
 
 - 砖块会高压损坏，闸门不会
 
@@ -18,23 +18,27 @@
 
 待补充截图
 
-## 自流式高压液库
+## 自流式水泉
+
+### 方案一
 
 [水泉自流高压液库-大叔](https://www.bilibili.com/video/BV1bLDCBfEuE)
 
+![](/imgs/gyyk/shui1.jpg)
+
+- 需要三格不同气体
+
+![](/imgs/gyyk/shui2.jpg)
+
+### 方案二
+
+![](/imgs/gyyk/shui3.jpg)
+
 - 需要两格不同气体
 
-![](/imgs/gyyk/qiti.jpg)
+![](/imgs/gyyk/shui4.jpg)
 
-### 盐水泉
-
-![](/imgs/gyyk/yanshui.jpg)
-
-### 污染浓盐水泉
-
-![](/imgs/gyyk/yanshui2.jpg)
-
-### 岩浆
+## 自流式岩浆
 
 - 真空环境操作
 - 两格气体，高温气化实现，水 + 磷矿，水要铺开
