@@ -30,3 +30,17 @@
 可以用网格砖清空液体的方式实现
 
 ## 隔热门
+
+### 方案一
+
+- 可以放储物箱
+
+![](/imgs/guide/geremen1.jpg)
+
+![](/imgs/guide/geremen3.jpg)
+
+### 方案二
+
+![](/imgs/guide/geremen2.jpg)
+
+![](/imgs/guide/geremen4.jpg)
