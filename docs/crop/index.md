@@ -3,8 +3,8 @@
 `Crops`
 
 - [农场](/crop/nc)
+- [花蜜](/crop/huami)
 - [动捕草](/crop/dbc)
-
 
 ### 作物数据
 

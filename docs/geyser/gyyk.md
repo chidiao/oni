@@ -40,11 +40,4 @@
 
 ## 自流式岩浆
 
-- 真空环境操作
-- 两格气体，高温气化实现，水 + 磷矿，水要铺开
-- 隔热材质，黑曜石，熔点 2700+
-- 隔热气闸，钢，熔点 2400+
-
-![](/imgs/gyyk/yanjiang1.jpg)
-
-[高压岩浆库-老郑](https://www.bilibili.com/video/BV12P3gzSEP1)
+[自流式岩浆](/geyser/huoshan)

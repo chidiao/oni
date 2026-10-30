@@ -44,3 +44,24 @@
 ![](/imgs/guide/geremen2.jpg)
 
 ![](/imgs/guide/geremen4.jpg)
+
+## 吃气门
+
+- 门：绿开红关
+- 时间传感器：一开一关
+
+### 吃非氧气
+
+- 气体元素传感器：检测到氧气，输出绿色，开门。检测不到氧气，输出红色，关门。
+- 串联：绿色优先级高，有一个绿色就是绿色，全红色才是红色。
+- 时间传感器不要串缓冲门输入端
+
+![](/imgs/guide/chiqimen3.jpg)
+
+- 缓冲门：持续检测不到氧气时输出红色
+
+![](/imgs/guide/chiqimen4.jpg)
+
+- 竖门可对称
+
+![](/imgs/guide/chiqimen1.jpg)

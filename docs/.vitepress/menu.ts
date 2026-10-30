@@ -34,11 +34,11 @@ export const menus: MenuGroup[] = [
     text: '间歇泉',
     items: [
       { text: '总览', link: '/geyser/index' },
-      { text: '火山开发', link: '/geyser/huoshan' },
+      { text: '高压气库', link: '/geyser/gyqk' },
+      { text: '高压液库', link: '/geyser/gyyk' },
       { text: '气泉开发', link: '/geyser/qiquan' },
       { text: '液泉开发', link: '/geyser/yequan' },
-      { text: '高压气库', link: '/geyser/gyqk' },
-      { text: '高压液库', link: '/geyser/gyyk' }
+      { text: '火山开发', link: '/geyser/huoshan' }
     ]
   },
   {
@@ -46,6 +46,7 @@ export const menus: MenuGroup[] = [
     items: [
       { text: '总览', link: '/crop/index' },
       { text: '农场', link: '/crop/nc' },
+      { text: '花蜜', link: '/crop/huami' },
       { text: '动捕草', link: '/crop/dbc' }
     ]
   },
