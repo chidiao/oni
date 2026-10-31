@@ -1,5 +1,18 @@
 # 基地
 
+## 出口
+
+### 太空服检查站
+
+![](/imgs/build/taikongfu1.jpg)
+
+### 漏尿保护
+
+- 漏尿回收
+- 冲浪板回收
+
+![](/imgs/build/louniao1.jpg)
+
 ## 厨房
 
 - 清扫器不能拿紧邻的这一格，所以运输到这里，没问题
@@ -12,23 +25,16 @@
 
 ![](/imgs/build/chufang2.jpg)
 
-## 检查站
-
-- 不错的尝试，有待优化
-
-![](/imgs/build/chukou1.jpg)
-
 ## 除碳清杂
 
 - 工业器械需要和保护区隔离
 
 ![](/imgs/build/chutanqingza.jpg)
 
-## 双向储物
+## 储物
 
-- 5 x 7
-- 真空环境
+[一格储物-大叔](https://www.yuque.com/u25332524/ftq4u7/pv4i3n)
+
+- 真空
 
 ![](/imgs/build/chuwu.jpg)
-
-[视频教程](https://www.bilibili.com/video/BV1wh411i7eL)
