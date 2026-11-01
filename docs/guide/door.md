@@ -65,3 +65,20 @@
 - 竖门可对称
 
 ![](/imgs/guide/chiqimen1.jpg)
+
+## 单向液门
+
+- 液门后有水平落脚点才可以通过
+- 液门后无水平落脚点就不可以通过
+- 单向液门多开少关原则，防止小人被困或进不去
+- 周期锁 1.9 比 0.1
+
+![](/imgs/farm/danxiangyemen1.jpg)
+
+### 镜像版
+
+![](/imgs/farm/danxiangyemen2.jpg)
+
+### 顶部版
+
+![](/imgs/farm/danxiangyemen3.jpg)
