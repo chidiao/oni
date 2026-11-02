@@ -8,26 +8,16 @@
 - 源头控温（常温灌溉），费电
 - 环境控温（高温灌溉），费电，作物吃水的时候，温差的热量会直接被吞掉，相当于节省了一部分电力
 
-## 毛刺小麦
-
-[文档](https://www.yuque.com/u25332524/ftq4u7/ztbrcd)
+## 小麦花蜜
 
 - 18 x 11
-- 瑕疵但能用，有待升级
+- 灌溉管道要用隔热管，防止爆管
+- 小麦只有一格高度
+- 种了一棵糖心树，前期需要压低温度，树枝长大后，温度回调
 
-![](/imgs/crop/maocixiaomai1.jpg)
+![](/imgs/crop/xiaomai1.jpg)
 
-- 重点之一是需要真空隔离两个环境
-
-![](/imgs/crop/maocixiaomai2.jpg)
-
-- 液冷循环，通过闸门的闭合给毛刺降温
-
-![](/imgs/crop/maocixiaomai3.jpg)
-
-- 缓冲门 5s
-
-![](/imgs/crop/maocixiaomai4.jpg)
+![](/imgs/crop/xiaomai2.jpg)
 
 ## 蘑菇浆果
 
@@ -35,7 +25,7 @@
 - 超压二氧化碳环境
 - 菌泥运输不要过水
 - 虽然菌泥走自动化，但是并不会完全禁止小人手动施肥，只能降低概率
-- 左上角清扫未覆盖！待优化！
+- 左上角清扫覆盖不全（施肥），拟芽
 
 ![](/imgs/crop/mogu1.jpg)
 
@@ -48,13 +38,9 @@
 ![](/imgs/crop/huojiaoshuicao4.jpg)
 
 - 管道循环
+- 外挂控温
 
 ![](/imgs/crop/huojiaoshuicao5.jpg)
-
-- 外挂液冷
-- 输出高温污染水和高温水
-
-![](/imgs/build/waiguayeleng1.jpg)
 
 - 旧版本-常温水控温版
 - 顶部三层结构，管道线路不好维护

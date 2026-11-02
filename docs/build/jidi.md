@@ -1,17 +1,20 @@
 # 基地
 
-## 出口
+## 检查站
 
-### 太空服检查站
+![](/imgs/build/jidi-taikongfu.jpg)
 
-![](/imgs/build/taikongfu1.jpg)
+- 过道
 
-### 漏尿保护
+![](/imgs/build/jidi-taikongfu2.jpg)
+
+## 漏尿保护
 
 - 漏尿回收
 - 冲浪板回收
+- 吃气门
 
-![](/imgs/build/louniao1.jpg)
+![](/imgs/build/jidi-louniao.jpg)
 
 ## 厨房
 
@@ -38,3 +41,7 @@
 - 真空
 
 ![](/imgs/build/chuwu.jpg)
+
+- 基地双向
+
+![](/imgs/build/chuwu2.jpg)

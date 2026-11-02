@@ -2,7 +2,8 @@
 
 `Temperature Control`
 
-- [液冷](/tc/yeleng)
+- [降温](/tc/jiangwen)
+- [冷水](/tc/lengshui)
 
 ## 冷却液
 

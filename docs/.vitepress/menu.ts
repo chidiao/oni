@@ -16,6 +16,7 @@ export const menus: MenuGroup[] = [
     text: '建造',
     items: [
       { text: '总览', link: '/build/index' },
+      { text: '基地', link: '/build/jidi' },
       { text: '瀑布', link: '/build/pubu' },
       { text: '汪洋星', link: '/build/wyx' },
       { text: '发电', link: '/build/fadian' },
@@ -27,7 +28,8 @@ export const menus: MenuGroup[] = [
     text: '控温',
     items: [
       { text: '总览', link: '/tc/index' },
-      { text: '液冷', link: '/tc/yeleng' }
+      { text: '降温', link: '/tc/jiangwen' },
+      { text: '冷水', link: '/tc/lengshui' }
     ]
   },
   {
