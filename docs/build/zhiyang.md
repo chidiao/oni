@@ -6,15 +6,19 @@
 - 一台电解器能供应 8.8 个复制人
 - 每格 1kg 液体
 
-![](/imgs/zy/dianjiezhiyang1.jpg)
+![](/imgs/zy/dianjie1.jpg)
 
-- 液冷
+- 液体管道
 
-![](/imgs/zy/dianjiezhiyang2.jpg)
+![](/imgs/zy/dianjie2.jpg)
 
 - 上氧下氢，更稳定
 
-![](/imgs/zy/dianjiezhiyang3.jpg)
+![](/imgs/zy/dianjie4.jpg)
+
+- 自动化
+
+![](/imgs/zy/dianjie3.jpg)
 
 ## 珊瑚制氧
 
