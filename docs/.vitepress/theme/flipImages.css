@@ -1,0 +1,7 @@
+.vp-doc img {
+  transition: transform 0.5s ease;
+}
+
+.vp-doc img.img-flipped {
+  transform: rotateY(180deg);
+}
