@@ -66,6 +66,16 @@
 
 ![](/imgs/guide/chiqimen1.jpg)
 
+## 吃液门
+
+- 核废料处理
+
+![](/imgs/build/chiyemen1.jpg)
+
+- 缓冲门 +1s
+
+![](/imgs/build/chiyemen2.jpg)
+
 ## 单向液门
 
 - 液门后有水平落脚点才可以通过

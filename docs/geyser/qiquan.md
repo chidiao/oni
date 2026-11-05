@@ -1,12 +1,12 @@
 # 气泉开发
 
-## 高温氢气泉
+## 氢气喷口
 
-- 8 x 13
+- 18 x 11
 - 500° 氢气
 
-![](/imgs/geyser/qingqiquan1.jpg)
+![](/imgs/geyser/qingqi1.jpg)
 
-- 降温
+- 液冷
 
-![](/imgs/geyser/qingqiquan2.jpg)
+![](/imgs/geyser/qingqi2.jpg)

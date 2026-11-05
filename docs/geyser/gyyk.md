@@ -3,20 +3,16 @@
 ## 高压液库
 
 - 砖块会高压损坏，闸门不会
-
-![](/imgs/gyyk/putong1.jpg)
-
 - 需要一格气体来创建高压液库
 
-![](/imgs/gyyk/putong2.jpg)
+![](/imgs/gyyk/chuye2.jpg)
 
-- 适配潮汐泉版本
+- 朴实无华版
+- 18 x 11（含梯子）
+- 无自动化，直接带气封闭，不用刻意构建和保持
+- 抽干了也能再次形成
 
-![](/imgs/gyyk/chaoxi1.jpg)
-
-- 适配房间版本
-
-待补充截图
+![](/imgs/gyyk/chuye1.jpg)
 
 ## 自流式水泉
 
