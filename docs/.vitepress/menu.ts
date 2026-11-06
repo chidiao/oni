@@ -17,7 +17,7 @@ export const menus: MenuGroup[] = [
     items: [
       { text: '总览', link: '/build/index' },
       { text: '基地', link: '/build/jidi' },
-      { text: '瀑布', link: '/build/pubu' },
+      { text: '娱乐', link: '/build/yule' },
       { text: '汪洋星', link: '/build/wyx' },
       { text: '发电', link: '/build/fadian' },
       { text: '遗迹', link: '/build/yiji' },
