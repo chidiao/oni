@@ -6,5 +6,4 @@
 - [娱乐](/build/yule)
 - [汪洋星](/build/wyx)
 - [发电](/build/fadian)
-- [遗迹](/build/yiji)
 - [制氧](/build/zhiyang)
