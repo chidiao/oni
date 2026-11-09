@@ -4,6 +4,8 @@
 
 - [基地](/build/jidi)
 - [娱乐](/build/yule)
-- [汪洋星](/build/wyx)
 - [发电](/build/fadian)
 - [制氧](/build/zhiyang)
+- [门](/build/door)
+- [净化](/build/jinghua)
+- [技巧](/build/skill)

@@ -11,11 +11,11 @@ hero:
   actions:
     - theme: brand
       text: 参考链接
-      link: /links
+      link: /guide/links
 
 features:
   - title: 指南
-    details: 常用数据、液门、净化与技巧
+    details: 常用数据与各分类入口
     link: /guide/index
     linkText: 查看
     icon: 🧭
@@ -56,7 +56,7 @@ features:
     icon: 🐟
   - title: 液门
     details: 液体流动行为与液门设计要点
-    link: /guide/door
+    link: /build/door
     linkText: 查看
     icon: 🚪
 ---

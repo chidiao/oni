@@ -2,11 +2,11 @@
 
 `Guide`
 
-- [门](/guide/door)
-- [净化](/guide/jinghua)
-- [技巧](/guide/skill)
-
-## 常用数据
+- [建造](/build/index)
+- [控温](/tc/index)
+- [间歇泉](/geyser/index)
+- [种植](/crop/index)
+- [养殖](/farm/index)
 
 ## 分层概览
 
