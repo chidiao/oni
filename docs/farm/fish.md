@@ -35,8 +35,7 @@
 ## 帕库鱼
 
 - 18 x 6
-
-![](/imgs/fish/pakuyu1.jpg)
+- 参考灯喙鱼
 
 ## 灯喙鱼
 
@@ -46,14 +45,14 @@
 | 藤壶星 | 25% 生长进度   | 25 - 45° | 1    |
 
 - 18 x 6
-- 精养5只，8格拥挤
-- 产出 石灰
 
-![](/imgs/fish/denghuiyu1.jpg)
+![](/imgs/fish/denghuiyu4.jpg)
 
-- 18 x 11
+- 吸氧气，幸福度 +2
+- 确保每层只有一种液体，可以避免液体低落合并推开等问题
+- 确保氧气格下方可游动
 
-![](/imgs/fish/denghuiyu2.jpg)
+![](/imgs/fish/denghuiyu3.jpg)
 
 ## 彩斑鱿
 

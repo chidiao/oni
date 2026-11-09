@@ -11,8 +11,7 @@ export const menus: MenuGroup[] = [
       { text: '发电', link: '/build/fadian' },
       { text: '制氧', link: '/build/zhiyang' },
       { text: '门', link: '/build/door' },
-      { text: '净化', link: '/build/jinghua' },
-      { text: '技巧', link: '/build/skill' }
+      { text: '净化', link: '/build/jinghua' }
     ]
   },
   {

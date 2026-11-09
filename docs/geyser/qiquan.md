@@ -10,3 +10,10 @@
 - 液冷
 
 ![](/imgs/geyser/qingqi2.jpg)
+
+## 天然气喷孔
+
+- 9 x 6
+- 150° 天然气
+
+![](/imgs/geyser/tianranqi1.jpg)
