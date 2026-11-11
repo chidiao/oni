@@ -2,6 +2,8 @@
 
 ## 氢气
 
+- 差评
+
 ![](/imgs/build/qingqifadian1.jpg)
 
 - 发热有点低
