@@ -1,18 +1,26 @@
 # 发电站
 
+## 石油
+
+- 18 x 16
+- 石油消耗有点大
+
+![](/imgs/fd/shiyou1.jpg)
+
+- 液体管道
+
+![](/imgs/fd/shiyou2.jpg)
+
+- 真空接线板
+
+![](/imgs/fd/jiexianban1.jpg)
+
 ## 氢气
 
-- 差评
+- 18 x 11
+- 发热有点低，可以多建几层
 
-![](/imgs/build/qingqifadian1.jpg)
-
-- 发热有点低
-
-![](/imgs/build/qingqifadian2.jpg)
-
-## 天然气
-
-![](/imgs/build/tianranfadian1.jpg)
+![](/imgs/fd/qingqi1.jpg)
 
 ## 电池舱
 
@@ -30,4 +38,4 @@
 - 实际效果和只连一个智能电池一样，电池舱实际使用容量只有 20%
 - 因为充电和耗电是均分到每个电池上的
 
-![](/imgs/build/fadian-yihuomen.jpg)
+![](/imgs/fd/yihuomen.jpg)

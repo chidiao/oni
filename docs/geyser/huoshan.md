@@ -1,5 +1,12 @@
 # 火山开发
 
+## 气体桥发电
+
+[气体桥发电](https://www.bilibili.com/opus/1162787667322077216)
+
+- 岩浆流动性差，横向流动确保五格，确保不会结块
+- 
+
 ## 高压岩浆库
 
 [高压岩浆库-老郑](https://www.bilibili.com/video/BV12P3gzSEP1)
