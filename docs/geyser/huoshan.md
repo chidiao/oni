@@ -4,8 +4,33 @@
 
 [气体桥发电](https://www.bilibili.com/opus/1162787667322077216)
 
+- 25 x 11
+- 大火山 3台 蒸汽机，小火山 2台 蒸汽机，3吨 水
+- 每格 100kg 原油/石油，总 1500kg 原油/石油，增加热容
+- 隔热砖选火成岩（不会融化，比热容高）或黑曜石（熔点高，比热容低）
+
+![](/imgs/geyser/huoshan01.jpg)
+
 - 岩浆流动性差，横向流动确保五格，确保不会结块
-- 
+- 网格砖内不会结块
+
+![](/imgs/geyser/huoshan03.jpg)
+
+- 切片，自动化
+
+![](/imgs/geyser/huoshan04.jpg)
+
+- 轨道循环
+
+![](/imgs/geyser/huoshan02.jpg)
+
+- 液冷，和轨道逆流换热
+
+![](/imgs/geyser/huoshan06.jpg)
+
+- 核心导热，黑曜石气体桥
+
+![](/imgs/geyser/huoshan05.jpg)
 
 ## 高压岩浆库
 

@@ -30,6 +30,7 @@ export const menus: MenuGroup[] = [
       { text: '气泉开发', link: '/geyser/qiquan' },
       { text: '液泉开发', link: '/geyser/yequan' },
       { text: '火山开发', link: '/geyser/huoshan' },
+      { text: '金属火山', link: '/geyser/jinshu' },
       { text: '原油裂化', link: '/geyser/yuanyou' }
     ]
   },
