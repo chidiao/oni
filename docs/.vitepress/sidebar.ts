@@ -22,7 +22,8 @@ const others: DefaultTheme.SidebarItem[] = [
     text: '其他',
     items: [
       { text: '参考链接', link: '/guide/links' },
-      { text: '技能参考', link: '/skills/index-rules' }
+      { text: '技能参考', link: '/skills/index-rules' },
+      { text: '图片', link: '/guide/images' }
     ]
   }
 ]

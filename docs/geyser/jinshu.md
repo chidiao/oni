@@ -14,8 +14,9 @@
 ## 金火山
 
 - 12 x 11
+- 隔热门版
 
-![](/imgs/geyser/jin1.jpg)
+![](/imgs/geyser/jin5.jpg)
 
 - 切片，轨道，火山口轨道用钢，其余不重要
 

@@ -17,6 +17,8 @@
 ![](/imgs/geyser/huoshan03.jpg)
 
 - 切片，自动化
+- 小火山温度传感器可以调低，用小功率换持续时间，确保稳定持续
+- 小火山可以关一个蒸汽机，同理
 
 ![](/imgs/geyser/huoshan04.jpg)
 
