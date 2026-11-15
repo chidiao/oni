@@ -1,6 +1,16 @@
-# 原油裂化
+# 原油开发
 
-## 手动版本
+## 油井开采
+
+- 油井可以浸泡，方便换热
+- 油井不怕过热，但是输入的水怕高温相变
+- 所以需要控一下温度
+
+![](/imgs/geyser/youjing1.jpg)
+
+## 原油裂化
+
+- 手动但是有效版
 
 ![](/imgs/geyser/yuanyou1.jpg)
 
@@ -25,3 +35,11 @@
 - 该步骤效率低，可在闲时操作，或者跳过
 
 ![](/imgs/geyser/yuanyou5.jpg)
+
+- 冷却池液冷管通蒸气室回收热量
+
+![](/imgs/geyser/yuanyou6.jpg)
+
+- 隔壁回收
+
+![](/imgs/geyser/yuanyou7.jpg)
