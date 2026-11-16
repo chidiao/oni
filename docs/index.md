@@ -26,7 +26,7 @@ features:
     icon: 🏗️
   - title: 控温
     details: 液冷等温控模块
-    link: /tc/index
+    link: /build/kongwen
     linkText: 查看
     icon: 🌡️
   - title: 种植

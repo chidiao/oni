@@ -8,3 +8,4 @@
 - [制氧](/build/zhiyang)
 - [门](/build/door)
 - [净化](/build/jinghua)
+- [控温](/build/kongwen)

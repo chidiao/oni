@@ -5,6 +5,7 @@
 - [维基百科](https://oxygennotincluded.wiki.gg/zh/)
 - [久霜百科](https://xn--3iqt98o.cn/)
 - [大叔笔记](https://www.yuque.com/u25332524/ftq4u7)
+- [moono](https://github.com/tigin-backwards/oni-moono)
 
 ## debug
 

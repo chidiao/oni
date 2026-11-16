@@ -3,7 +3,6 @@
 `Guide`
 
 - [建造](/build/index)
-- [控温](/tc/index)
 - [间歇泉](/geyser/index)
 - [种植](/crop/index)
 - [养殖](/farm/index)
