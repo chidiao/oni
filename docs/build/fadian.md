@@ -5,31 +5,41 @@
 - 18 x 16
 - 石油消耗有点大
 
-![](/imgs/fd/shiyou1.jpg)
+![](/imgs/dian/shiyou1.jpg)
 
 - 液体管道
 
-![](/imgs/fd/shiyou2.jpg)
+![](/imgs/dian/shiyou2.jpg)
 
 - 真空接线板
 
-![](/imgs/fd/jiexianban1.jpg)
+![](/imgs/dian/jiexianban1.jpg)
 
 ## 氢气
 
 - 18 x 11
 - 发热有点低，可以多建几层
 
-![](/imgs/fd/qingqi1.jpg)
+![](/imgs/dian/qingqi1.jpg)
 
-## 电池舱
+## 电池舱组
 
-### 分级电路方案
+### 智能发电
+
+![](/imgs/dian/dianli1.jpg)
+
+- 电池舱组平时以不稳定电力为主，发电站在低电量时才并入电路
+- 虽然电池舱没有自动化信号，但是串联电路充放电同步且平均
+- 串联一个智能电池，阈值范围其实对应的电池舱 10% - 20%（10kj - 20kj） 阈值，这个阈值是够用的
+
+![](/imgs/dian/dianli2.jpg)
+
+### 分级电路
 
 - 智能电池通过变压器组给电池组充电
 - 电池类似耗电设备，满电后不会再向上级索要电力
 
-### 异或门方案
+### 异或门
 
 - 方案无效
 - 异或门 一红一绿 输出 绿色
@@ -38,4 +48,4 @@
 - 实际效果和只连一个智能电池一样，电池舱实际使用容量只有 20%
 - 因为充电和耗电是均分到每个电池上的
 
-![](/imgs/fd/yihuomen.jpg)
+![](/imgs/dian/yihuomen.jpg)
