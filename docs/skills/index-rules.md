@@ -45,8 +45,9 @@ All category overview pages (index.md) must follow:
 触发：nav、顶部导航、分组、菜单
 
 - `docs/.vitepress/menu.ts` 只配置 nav 分组：建造 / 间歇泉 / 种植 / 养殖
+- nav 为扁平链接，不展示二级下拉菜单：每组直接链接到该分类总览页（由 `menu.ts` 分组的 `link` 提供）
+- 分类子项只在 sidebar 分组中展示；总览页也可由 sidebar 指南组 / 首页 / links 进入
 - 「指南」不在 menu/nav 中，只在 `sidebar.ts` 里配置
-- 分类分组不设「总览」入口；总览页由 sidebar 指南组 / 首页 / links 进入
 - "其他" 不进 nav，只在 sidebar 显示
 
 ## Sidebar Rules
@@ -63,6 +64,7 @@ All category overview pages (index.md) must follow:
   - 建造 → `/build/`
   - 间歇泉 → `/geyser/`
   - 种植 / 养殖 → `/crop/`, `/farm/`
+  - 养殖按 `menu.ts` item 的 `tag` 拆成陆生/水生两组：`tag: '水生'` 归水生养殖，其余（含缺失）归陆生养殖
   - 其他页面（`/guide/`, `/skills/`）只显示 指南 + 其他
 - 参考链接页位于 `/guide/links`，由「其他」组进入
 

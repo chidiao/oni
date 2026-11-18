@@ -49,7 +49,7 @@ features:
     link: /geyser/gyyk
     linkText: 查看
     icon: 💧
-  - title: 养鱼
+  - title: 鱼类
     details: 海梳蕨与帕库鱼的简易养殖模块
     link: /farm/fish
     linkText: 查看

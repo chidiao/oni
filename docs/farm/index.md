@@ -2,10 +2,18 @@
 
 `Farming`
 
-- [养鱼](/farm/fish)
+## 陆生养殖
+
 - [壁虎](/farm/bihu)
 - [哈奇](/farm/haqi)
 - [飞鱼](/farm/feiyu)
+
+## 水生养殖
+
+- [鱼类](/farm/fish)
+- [海马](/farm/haima)
+- [彩斑鱿](/farm/caibanyou)
+- [矿甲龟](/farm/kuangjiagui)
 
 ## 梳理站
 
