@@ -34,7 +34,9 @@ export const menus: MenuGroup[] = [
     text: '种植',
     link: '/crop/index',
     items: [
-      { text: '农场', link: '/crop/nc' },
+      { text: '毛刺花', link: '/crop/maocihua' },
+      { text: '冰霜小麦', link: '/crop/xiaomai' },
+      { text: '火椒藤', link: '/crop/huojiao' },
       { text: '花蜜', link: '/crop/huami' },
       { text: '动捕草', link: '/crop/dbc' }
     ]

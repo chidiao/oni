@@ -2,7 +2,9 @@
 
 `Crops`
 
-- [农场](/crop/nc)
+- [毛刺花](/crop/maocihua)
+- [冰霜小麦](/crop/xiaomai)
+- [火椒藤](/crop/huojiao)
 - [花蜜](/crop/huami)
 - [动捕草](/crop/dbc)
 
