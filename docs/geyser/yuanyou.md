@@ -32,3 +32,11 @@
 - 底部蒸气室持续消耗热量
 
 ![](/imgs/geyser/yuanyou2.jpg)
+
+### 高压液库
+
+![](/imgs/geyser/yuanyou3.jpg)
+
+- 液体管道换热，给原油预热，给石油降温
+
+![](/imgs/geyser/yuanyou4.jpg)

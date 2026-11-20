@@ -7,13 +7,14 @@ export const menus: MenuGroup[] = [
     text: '建造',
     link: '/build/index',
     items: [
+      { text: '门', link: '/build/door' },
       { text: '基地', link: '/build/jidi' },
       { text: '娱乐', link: '/build/yule' },
       { text: '发电', link: '/build/fadian' },
       { text: '制氧', link: '/build/zhiyang' },
       { text: '净化', link: '/build/jinghua' },
       { text: '控温', link: '/build/kongwen' },
-      { text: '门', link: '/build/door' },
+      { text: '工业', link: '/build/gongye' },
       { text: '火箭', link: '/build/huojian' }
     ]
   },
