@@ -29,6 +29,11 @@
 
 ![](/imgs/farm/shushu2.jpg)
 
+- 气闸没有液体，小动物可以通过
+- 为防止小动物向左同行，需要加一个与门控制，两个门不能同时开
+
+![](/imgs/farm/shushu5.jpg)
+
 - 轨道
 
 ![](/imgs/farm/shushu3.jpg)
