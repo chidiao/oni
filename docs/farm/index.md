@@ -6,7 +6,9 @@
 
 - [壁虎](/farm/bihu)
 - [哈奇](/farm/haqi)
+- [树鼠](/farm/shushu)
 - [飞鱼](/farm/feiyu)
+- [浮游生物](/farm/fuyou)
 
 ## 水生养殖
 

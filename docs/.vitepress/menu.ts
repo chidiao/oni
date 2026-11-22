@@ -35,6 +35,7 @@ export const menus: MenuGroup[] = [
     text: '种植',
     link: '/crop/index',
     items: [
+      { text: '基础作物', link: '/crop/jichu' },
       { text: '毛刺花', link: '/crop/maocihua' },
       { text: '冰霜小麦', link: '/crop/xiaomai' },
       { text: '火椒藤', link: '/crop/huojiao' },
@@ -52,7 +53,10 @@ export const menus: MenuGroup[] = [
       { text: '矿甲龟', link: '/farm/kuangjiagui', tag: '水生' },
       { text: '壁虎', link: '/farm/bihu' },
       { text: '哈奇', link: '/farm/haqi' },
-      { text: '飞鱼', link: '/farm/feiyu' }
+      { text: '树鼠', link: '/farm/shushu' },
+      { text: '飞鱼', link: '/farm/feiyu' },
+      { text: '抛壳蟹', link: '/farm/pangxie' },
+      { text: '浮游生物', link: '/farm/fuyou' }
     ]
   }
 ]
