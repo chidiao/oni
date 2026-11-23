@@ -14,3 +14,5 @@
 ## 夜幕菇
 
 - 18 x 11
+
+![](/imgs/crop/mogu3.jpg)
