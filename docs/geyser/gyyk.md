@@ -42,6 +42,12 @@
 
 ![](/imgs/gyyk/kulou4.jpg)
 
+- 结构不被破坏，水抽干也能恢复
+- 气体存在斜角换气合并，斜角无遮挡，气体会挤过去
+- 也就是说，直接塞好四种气体，然后滴液封口，它自己就会成型！
+
+![](/imgs/gyyk/kulou5.jpg)
+
 ### 紧凑版
 
 [水泉自流高压液库-大叔](https://www.bilibili.com/video/BV1bLDCBfEuE)

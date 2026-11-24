@@ -53,18 +53,6 @@
 
 ![](/imgs/jd/chutanqingza.jpg)
 
-### 储物
-
-[一格储物-大叔](https://www.yuque.com/u25332524/ftq4u7/pv4i3n)
-
-- 真空
-
-![](/imgs/jd/chuwu.jpg)
-
-- 基地双向
-
-![](/imgs/jd/chuwu2.jpg)
-
 ## 副星基地
 
 - 以传送遗迹为界限，占地 29 格

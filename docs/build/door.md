@@ -84,10 +84,4 @@
 
 ### 吃液门
 
-- 核废料处理
-
-![](/imgs/build/chiyemen1.jpg)
-
-- 缓冲门 +1s
-
-![](/imgs/build/chiyemen2.jpg)
+[吃液门](/build/chucun#吃液门)
