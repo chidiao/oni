@@ -7,11 +7,15 @@
 - 真空
 - 杂物清扫
 
-![](/imgs/jd/chuwu.jpg)
+![](/imgs/build/chuwu.jpg)
 
 - 基地双向
 
-![](/imgs/jd/chuwu2.jpg)
+![](/imgs/build/chuwu2.jpg)
+
+### 分拣
+
+![](/imgs/build/chuwu3.jpg)
 
 ## 储液
 

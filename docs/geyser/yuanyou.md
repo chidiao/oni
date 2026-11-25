@@ -60,7 +60,8 @@
 
 ![](/imgs/geyser/yuanyou7.jpg)
 
-- 一排石油再放油
+- 一排石油再放油，更安全
+- 靠近滴液的地方尽量别间隔
 
 ![](/imgs/geyser/yuanyou6.jpg)
 
