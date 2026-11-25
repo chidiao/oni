@@ -9,30 +9,30 @@
 - 每格 100kg 原油/石油，总 1500kg 原油/石油，增加热容
 - 隔热砖选火成岩（不会融化，比热容高）或黑曜石（熔点高，比热容低）
 
-![](/imgs/geyser/huoshan01.jpg)
+![](/imgs/geyser/huoshan1.jpg)
 
 - 岩浆流动性差，横向流动确保五格，确保不会结块
 - 网格砖内不会结块
 
-![](/imgs/geyser/huoshan03.jpg)
+![](/imgs/geyser/huoshan3.jpg)
 
 - 切片，自动化
 - 小火山温度传感器可以调低，用小功率换持续时间，确保稳定持续
 - 小火山可以关一个蒸汽机，同理
 
-![](/imgs/geyser/huoshan04.jpg)
+![](/imgs/geyser/huoshan8.jpg)
 
 - 轨道循环
 
-![](/imgs/geyser/huoshan02.jpg)
+![](/imgs/geyser/huoshan7.jpg)
 
 - 液冷，和轨道逆流换热
 
-![](/imgs/geyser/huoshan06.jpg)
+![](/imgs/geyser/huoshan6.jpg)
 
 - 核心导热，黑曜石气体桥
 
-![](/imgs/geyser/huoshan05.jpg)
+![](/imgs/geyser/huoshan5.jpg)
 
 ## 高压岩浆库
 

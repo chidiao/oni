@@ -51,10 +51,10 @@
 
 - 18 x 6
 
-![](/imgs/fish/denghuiyu4.jpg)
+![](/imgs/fish/denghuiyu1.jpg)
 
 - 吸氧气，幸福度 +2
 - 确保每层只有一种液体，可以避免液体低落合并推开等问题
 - 确保氧气格下方可游动
 
-![](/imgs/fish/denghuiyu3.jpg)
+![](/imgs/fish/denghuiyu2.jpg)

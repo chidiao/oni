@@ -41,21 +41,40 @@
 
 ### 蓝图
 
-[老郑](https://www.bilibili.com/video/BV1XG411f7io)
-
 - 启动慢，持续转化
-- 火山
+- 金属火山
+- [铌火山-老郑](https://www.bilibili.com/video/BV1XG411f7io)
 
 ![](/imgs/geyser/ni1.jpg)
 
-- 蒸气室是热量大户
+- 火山轨道
 
 ![](/imgs/geyser/yuanyou10.jpg)
+
+- 炼油轨道
+
+![](/imgs/geyser/yuanyou12.jpg)
+
+- 炼油室
+- 根本不需要气闸控温，加热比较慢
+
+![](/imgs/geyser/yuanyou7.jpg)
+
+- 一排石油再放油
+
+![](/imgs/geyser/yuanyou6.jpg)
 
 - 总览
 - 四层高度
 
 ![](/imgs/geyser/yuanyou11.jpg)
+
+- 金属降温
+
+![](/imgs/geyser/yuanyou5.jpg)
+
+- 原油注入过一下蒸气室，预热
+- 石油抽出过一下蒸气室，降温
 
 ## 原油裂化
 

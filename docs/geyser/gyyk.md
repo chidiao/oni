@@ -60,7 +60,7 @@
 
 - 两格不同气体
 
-![](/imgs/gyyk/shui4.jpg)
+![](/imgs/gyyk/shui1.jpg)
 
 ## 自流式岩浆
 

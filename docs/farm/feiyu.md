@@ -37,7 +37,7 @@
 - 养殖区
 - 18 x 11
 
-![](/imgs/farm/feiyu8.jpg)
+![](/imgs/farm/feiyu1.jpg)
 
 - 房间
 
@@ -55,4 +55,4 @@
 
 - 液冷
 
-![](/imgs/farm/feiyu7.jpg)
+![](/imgs/farm/feiyu2.jpg)

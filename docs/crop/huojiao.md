@@ -15,12 +15,12 @@
 - 直接灌溉高温水版本
 - 运输一把梭
 
-![](/imgs/crop/huojiaoshuicao4.jpg)
+![](/imgs/crop/huojiaoshuicao3.jpg)
 
 - 管道循环
 - 外挂控温
 
-![](/imgs/crop/huojiaoshuicao5.jpg)
+![](/imgs/crop/huojiaoshuicao2.jpg)
 
 - 旧版本-常温水控温版
 - 顶部三层结构，管道线路不好维护

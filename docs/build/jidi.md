@@ -60,9 +60,9 @@
 - 6 层小基地
 - 右遗迹挪了一下，可以不挪
 
-![](/imgs/jd/fuxing3.jpg)
+![](/imgs/jd/fuxing2.jpg)
 
 - 14 x 6 小房间，梯子占 1 格
 - 房间不少，实则可以压缩一层
 
-![](/imgs/jd/fuxing4.jpg)
+![](/imgs/jd/fuxing1.jpg)

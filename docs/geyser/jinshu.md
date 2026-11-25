@@ -19,7 +19,7 @@
 - 12 x 11
 - 热量很低
 
-![](/imgs/geyser/jin5.jpg)
+![](/imgs/geyser/jin1.jpg)
 
 - 切片，轨道，火山口轨道用钢，其余不重要
 

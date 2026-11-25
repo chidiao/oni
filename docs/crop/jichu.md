@@ -15,4 +15,4 @@
 
 - 18 x 11
 
-![](/imgs/crop/mogu3.jpg)
+![](/imgs/crop/mogu2.jpg)
